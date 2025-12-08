@@ -32,19 +32,13 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "aman.reddy@example.com",
-      href: "mailto:aman.reddy@example.com",
-    },
-    {
-      icon: Phone,
-      label: "Phone",
-      value: "+91 98765 43210",
-      href: "tel:+919876543210",
+      value: "reddyaman10@gmail.com",
+      href: "mailto:reddyaman10@gmail.com",
     },
     {
       icon: MapPin,
       label: "Location",
-      value: "Hyderabad, India",
+      value: "Powai Mumbai, India",
       href: "#",
     },
   ];
@@ -105,7 +99,7 @@ const Contact = () => {
             </div>
             
             {/* Social Links */}
-            <div className="pt-4">
+            {/* <div className="pt-4">
               <p className="text-xs text-muted-foreground mb-4 font-mono">
                 <span className="text-primary">$</span> find --social-links
               </p>
@@ -126,7 +120,7 @@ const Contact = () => {
                   </a>
                 ))}
               </div>
-            </div>
+            </div> */}
           </div>
           
           {/* Contact Form - Terminal Style */}

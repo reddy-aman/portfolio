@@ -42,7 +42,7 @@ const Footer = () => {
           </div>
           
           {/* Social Links */}
-          <div className="flex items-center gap-3">
+          {/* <div className="flex items-center gap-3">
             {[
               { href: "https://github.com", icon: Github, label: "GitHub" },
               { href: "https://linkedin.com", icon: Linkedin, label: "LinkedIn" },
@@ -59,7 +59,7 @@ const Footer = () => {
                 <social.icon className="w-4 h-4 text-muted-foreground group-hover:text-primary transition-colors" />
               </a>
             ))}
-          </div>
+          </div> */}
         </div>
       </div>
     </footer>
