@@ -65,7 +65,7 @@ const Hero = () => {
 
             <p className="text-lg md:text-lg text-muted-foreground mb-8 max-w-xl mx-auto lg:mx-0 font-mono leading-relaxed animate-fade-in" style={{ animationDelay: "0.4s" }}>
               <span className="text-primary">//</span> I’m a Software Developer with{" "}
-              <span className="text-primary font-bold">2+ years</span> of experience specializing in Laravel and PHP, building efficient and scalable web applications using modern technologies.
+              <span className="text-primary font-bold">3+ years</span> of experience specializing in Laravel and PHP, building efficient and scalable web applications using modern technologies.
             </p>
             
             {/* CTA Buttons */}
@@ -131,7 +131,7 @@ const Hero = () => {
 
               {/* Experience badge */}
               <div className="absolute -bottom-4 -right-4 bg-card/90 backdrop-blur px-4 py-2 rounded-lg shadow-lg border border-primary/30 hover:shadow-[0_0_20px_hsl(var(--primary)/0.3)] transition-shadow">
-                <p className="text-2xl font-bold text-primary font-mono">2+</p>
+                <p className="text-2xl font-bold text-primary font-mono">3+</p>
                 <p className="text-xs text-muted-foreground font-mono">Years Exp.</p>
               </div>
 
