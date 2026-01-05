@@ -7,7 +7,7 @@ const news = [
     description:
       "Securing a Linux server is crucial to protect it from unauthorized access and attacks. Fail2Ban is a powerful tool that can help you achieve this. In this article, we'll explore what Fail2Ban is, how it works, and how to set it up on your server.",
     technologies: ["Security","Linux","Brute Force Protection","Server Security"],
-    image: "https://media.licdn.com/dms/image/v2/D4D12AQF6lvFTQ5QC-g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723046421988?e=1766620800&v=beta&t=XF3n08XXcTflZ6_HbN0PVHk5l3jxHn1kKf9MnMFMYJI",
+    image: "https://media.licdn.com/dms/image/v2/D4D12AQF6lvFTQ5QC-g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723046421988?e=1769040000&v=beta&t=UbeRgIHypHeuhxrDu-MnbiPbztAa2i4HpepptrFTEAs",
     live: "https://www.linkedin.com/pulse/how-fail2ban-can-safeguard-your-server-from-brute-force-aman-reddy-ywc3f/",
   },
   {
@@ -15,7 +15,7 @@ const news = [
     description:
       "In the world of technology, attackers are constantly trying to gain unauthorized access to the server. Because of this, security is a major concern and choosing the best way to protect the server can be challenging. This article will help you to understand password based and key based authentication methods to improve your security.",
     technologies: ["Authentication Methods", "Linux Security", "SSH", "Cybersecurity", "Authentication"],
-    image: "https://media.licdn.com/dms/image/v2/D4D12AQFOzVHch32VFg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1722085878651?e=1766620800&v=beta&t=08grku8CRd-U-qs4-nTxJwaOfhCdBl7HFWzo5c63RFg",
+    image: "https://media.licdn.com/dms/image/v2/D4D12AQFOzVHch32VFg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1722085878651?e=1769040000&v=beta&t=2hjtXgtp4uzd-jYfn8OsrGkEsoCch-CF9hL_7U4Zi8c",
     github: "#",
     live: "https://www.linkedin.com/pulse/password-based-vs-key-authentication-which-more-secure-aman-reddy-s8cdf/",
   },
@@ -24,7 +24,7 @@ const news = [
     description:
       "phpMyAdmin is a powerful tool for managing MySQL database through a web interface. but it can also be a security risk if not properly protected. Hackers often target phpMyAdmin to gain access to sensitive data.",
     technologies: ["phpMyAdmin Security", "Database Security", "Access Control", "SQL Injection Prevention", "Security"],
-    image: "https://media.licdn.com/dms/image/v2/D4D12AQHhZE61CpuKFw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1738867447110?e=1766620800&v=beta&t=fN1xTDNkegHt6J415utwVGM7-JA_Mq6XcQMMF1bX3tE",
+    image: "https://media.licdn.com/dms/image/v2/D4D12AQHhZE61CpuKFw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1738867447110?e=1769040000&v=beta&t=YUKlsll9sNFCLIcizq0223z9z5vtZx1v_Gt67h3e8iM",
     github: "#",
     live: "https://www.linkedin.com/pulse/how-secure-phpmyadmin-step-by-step-guide-aman-reddy-tlhbf/?trackingId=WUKFyUaxQcS414DmRi1guA%3D%3D",
   },
