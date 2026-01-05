@@ -74,7 +74,7 @@ const About = () => {
                 <ChevronRight className="w-4 h-4 text-primary mt-1 flex-shrink-0" />
                 <p className="text-muted-foreground leading-relaxed">
                   I'm a dedicated <span className="text-primary">Laravel & PHP developer</span> with over 
-                  2 years of hands-on experience in building robust, scalable web applications.
+                  3 years of hands-on experience in building robust, scalable web applications.
                 </p>
               </div>
               
