@@ -35,7 +35,7 @@ const news = [
 
 const News = () => {
   return (
-    <section id="Articles" className="py-20 bg-card relative overflow-hidden">
+    <section id="newsletter" className="py-20 bg-card relative overflow-hidden">
       {/* Background pattern */}
       <div className="absolute inset-0 opacity-[0.02]">
         <div
