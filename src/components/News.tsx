@@ -7,7 +7,7 @@ const news = [
     description:
       "Securing a Linux server is crucial to protect it from unauthorized access and attacks. Fail2Ban is a powerful tool that can help you achieve this. In this article, we'll explore what Fail2Ban is, how it works, and how to set it up on your server.",
     technologies: ["Security","Linux","Brute Force Protection","Server Security"],
-    image: "/assets/Fail2Ban.jpeg",
+    image: "src/assets/Fail2Ban.jpeg",
     live: "https://www.linkedin.com/pulse/how-fail2ban-can-safeguard-your-server-from-brute-force-aman-reddy-ywc3f/",
   },
   {
