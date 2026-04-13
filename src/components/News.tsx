@@ -1,7 +1,7 @@
 import { ExternalLink, Github, Terminal, Folder, Code } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Fail2Ban from "@/assets/Fail2Ban.jpeg";
-
+import authentication from "@/assets/authentication.jpeg"; 
 const news = [
   {
     title: "How Fail2Ban Can Safeguard Your Server from Brute Force Attacks.",
@@ -16,7 +16,7 @@ const news = [
     description:
       "In the world of technology, attackers are constantly trying to gain unauthorized access to the server. Because of this, security is a major concern and choosing the best way to protect the server can be challenging. This article will help you to understand password based and key based authentication methods to improve your security.",
     technologies: ["Authentication Methods", "Linux Security", "SSH", "Cybersecurity", "Authentication"],
-    image: "https://media.licdn.com/dms/image/v2/D4D12AQFOzVHch32VFg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1722085878651?e=1769040000&v=beta&t=2hjtXgtp4uzd-jYfn8OsrGkEsoCch-CF9hL_7U4Zi8c",
+    image: authentication,
     github: "#",
     live: "https://www.linkedin.com/pulse/password-based-vs-key-authentication-which-more-secure-aman-reddy-s8cdf/",
   },
