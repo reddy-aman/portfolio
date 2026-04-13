@@ -1,5 +1,6 @@
 import { ExternalLink, Github, Terminal, Folder, Code } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import Fail2Ban from "@/assets/Fail2Ban.jpeg";
 
 const news = [
   {
@@ -7,7 +8,7 @@ const news = [
     description:
       "Securing a Linux server is crucial to protect it from unauthorized access and attacks. Fail2Ban is a powerful tool that can help you achieve this. In this article, we'll explore what Fail2Ban is, how it works, and how to set it up on your server.",
     technologies: ["Security","Linux","Brute Force Protection","Server Security"],
-    image: "src/assets/Fail2Ban.jpeg",
+    image: Fail2Ban,
     live: "https://www.linkedin.com/pulse/how-fail2ban-can-safeguard-your-server-from-brute-force-aman-reddy-ywc3f/",
   },
   {
