@@ -2,6 +2,7 @@ import { ExternalLink, Github, Terminal, Folder, Code } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Fail2Ban from "@/assets/Fail2Ban.jpeg";
 import authentication from "@/assets/authentication.jpeg"; 
+import phpMyAdmin from "@/assets/phpMyAdmin.png"; 
 const news = [
   {
     title: "How Fail2Ban Can Safeguard Your Server from Brute Force Attacks.",
@@ -25,7 +26,7 @@ const news = [
     description:
       "phpMyAdmin is a powerful tool for managing MySQL database through a web interface. but it can also be a security risk if not properly protected. Hackers often target phpMyAdmin to gain access to sensitive data.",
     technologies: ["phpMyAdmin Security", "Database Security", "Access Control", "SQL Injection Prevention", "Security"],
-    image: "https://media.licdn.com/dms/image/v2/D4D12AQHhZE61CpuKFw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1738867447110?e=1769040000&v=beta&t=YUKlsll9sNFCLIcizq0223z9z5vtZx1v_Gt67h3e8iM",
+    image: phpMyAdmin,
     github: "#",
     live: "https://www.linkedin.com/pulse/how-secure-phpmyadmin-step-by-step-guide-aman-reddy-tlhbf/?trackingId=WUKFyUaxQcS414DmRi1guA%3D%3D",
   },
@@ -50,10 +51,10 @@ const News = () => {
         <div className="text-center mb-16">
           <div className="inline-flex items-center gap-2 px-3 py-1 bg-primary/10 border border-primary/30 rounded-full mb-4">
             <Folder className="w-3 h-3 text-primary" />
-            <span className="text-primary font-mono text-xs">~/articles</span>
+            <span className="text-primary font-mono text-xs">~/Newsletter</span>
           </div>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground font-mono">
-            <span className="text-primary">&gt;</span> Technical Articles
+            <span className="text-primary">&gt;</span> Technical Newsletter
           </h2>
         </div>
         
